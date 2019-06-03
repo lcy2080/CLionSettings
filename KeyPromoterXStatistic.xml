@@ -17,6 +17,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit Changelist...">
         <Item>
           <IdeaActionID>ChangesView.Rename</IdeaActionID>
@@ -41,12 +49,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Home Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
+          <ShortCut>'Ctrl+1'</ShortCut>
+          <Description>Home Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Messages">
         <Item>
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">
@@ -81,12 +97,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MainProject.out'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'MainProject.out'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Step0'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Step0'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'gmock'">
@@ -102,7 +126,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -126,7 +150,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
