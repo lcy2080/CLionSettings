@@ -1,7 +1,8 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="Clang-Mac" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="/Library/Developer/CommandLineTools/usr/bin/clang" customCXXCompilerPath="/Library/Developer/CommandLineTools/usr/bin/clang++" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="Default-Mac" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
     </toolchains>
   </component>
 </application>
