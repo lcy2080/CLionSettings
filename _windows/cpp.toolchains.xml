@@ -2,7 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community" customCMakePath="C:\Program Files\CMake\bin\cmake.exe" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\bin\gdb.exe">
-        <toolSetOption type="msvc.arch" value="x86" />
+        <toolSetOption type="msvc.arch" value="amd64" />
         <toolSetOption type="version" value="8.1" />
       </toolchain>
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64" customMakePath="C:\Program Files\CMake\bin\cmake.exe" customCXXCompilerPath="C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\x86_64-w64-mingw32-g++.exe" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gdb.exe" />
